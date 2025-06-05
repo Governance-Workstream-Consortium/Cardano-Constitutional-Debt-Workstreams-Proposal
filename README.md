@@ -20,7 +20,6 @@ The Governance Workstream Consortium (GWC) is a grassroots governance coordinati
 - Budget Details
 - Multisig and Roles
 - Endorsements
-- Proposal Contribution Dept
 3. Pitch Deck - [GSlide](https://docs.google.com/presentation/d/1fEZsi36bsMDerdjZpufPbw8WSTfktrFBzRi_LTASuHE/edit#slide=id.g34ccc24d119_0_579)
 
 Supporting Docs:
@@ -29,7 +28,10 @@ Supporting Docs:
 3. Emergent Domains and Drivers for Governance Workstreams - [GSheet](https://docs.google.com/spreadsheets/d/1wKLVGCTYSQK_xsZPaPIFp4npOzjESb4r6vrICZCFsNw)
 4. Miro Board Video Guide (with multisig and ROM) - [Video](https://youtu.be/IH3cPPnbngY)
 5. Governance Workstream Consortium Endorsement Form - [GForm](https://forms.gle/NyrMnvKEqNYWrZoc9)
-6. [Miro Board](https://miro.com/app/board/uXjVIZDjWg0=/)
+6. Smart Contract Strategy - [GDoc](https://docs.google.com/document/d/1eWlNo5lKrHlqziOv2wMSUazOU331Cml7CZlEuqh2UL4)
+7. KPI Strategy Doc - [GDoc](https://docs.google.com/document/d/1COYQTL_TRshVtvv8fN7kLB6I1i6L0N-lBfMzbYygMPs)
+8. GWC as an Administrator - [GDoc](https://docs.google.com/document/d/1Kv5xzCC5M16x7rRXm2nX_RZsmq7MFihpcP58R3yZZA4)
+9. [Miro Board](https://miro.com/app/board/uXjVIZDjWg0=/)
 - Driver Mapping
 - Workspace
 - MultiSig Ideation + Administration
