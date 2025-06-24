@@ -1,4 +1,4 @@
-# Cardano-Constitutional-Dept-Workstreams-Proposal
+# Cardano-Constitutional-Debt-Workstreams-Proposal
 As Cardano enters a new phase of decentralised governance, the community faces a critical challenge: Ensure that constitutional initiatives are transparently administered, executed, and verifiably completed without relying on any single administrative body
 
 
@@ -15,8 +15,8 @@ The Governance Workstream Consortium (GWC) is a grassroots governance coordinati
 - Cardanocommunity2025 [**Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y2FyZGFub2NvbW11bml0eTIwMjVAZ21haWwuY29t)
 
 **__Proposal Info__**
-1. Cardano Constitutional Dept Workstreams - [GDoc](https://docs.google.com/document/d/1ruTWv3qoyxnWSoJ1KpilttozfKQGTq0Ly4CyPpS8YM4)
-2. Cardano Constitutional Dept Workstreams Budget Strategy - [GSheet](https://docs.google.com/spreadsheets/d/1ArJLvbOjkjFsj8P_KyTnMWNFzYaakJpnE0b9b4Qsbnw)
+1. Cardano Constitutional Debt Workstreams - [GDoc](https://docs.google.com/document/d/1ruTWv3qoyxnWSoJ1KpilttozfKQGTq0Ly4CyPpS8YM4)
+2. Cardano Constitutional Debt Workstreams Budget Strategy - [GSheet](https://docs.google.com/spreadsheets/d/1ArJLvbOjkjFsj8P_KyTnMWNFzYaakJpnE0b9b4Qsbnw)
 - Budget Details
 - Multisig and Roles
 - Endorsements
