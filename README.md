@@ -6,7 +6,7 @@ As Cardano enters a new phase of decentralised governance, the community faces a
 The Governance Workstream Consortium (GWC) is a grassroots governance coordination body formed by Constitutional Delegates, Alternates, and community members
 
 **__Context__**
-1. Cardano Constitutional Debt Workstreams [GDoc](https://docs.google.com/document/d/1ruTWv3qoyxnWSoJ1KpilttozfKQGTq0Ly4CyPpS8YM4)
+1. Cardano Constitutional Debt Workstreams Info Action [GDoc](https://docs.google.com/document/d/1ruTWv3qoyxnWSoJ1KpilttozfKQGTq0Ly4CyPpS8YM4)
 2. ROM - Future Work Stream Proposal [GSlide](https://docs.google.com/presentation/d/1y3Fv_um8oMrZZ5QPV6eJnqU2YOILnnZj2oh65_Hzw-Q/edit?usp=sharing)
    
 **__Coordination and Engagement__**
