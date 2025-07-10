@@ -15,6 +15,8 @@ The Governance Workstream Consortium (GWC) is a grassroots governance coordinati
 - Cardanocommunity2025 [**Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y2FyZGFub2NvbW11bml0eTIwMjVAZ21haWwuY29t)
 - **Meeting Summaries** - Currently, we don't have a specific link where all the summaries are accessible. Request for summaries in Discord.
 
+#### Please note: The documents listed below are companion materials to the proposal. While they provide suggested strategies, budget outlines, and operational frameworks, their implementation is not mandatory. The Multisig Board retains full discretion over whether to adopt, modify, or disregard the guidance within these documents based on their collective judgment and priorities.
+
 **__Proposal Info__**
 1. Summary of Future Work-streams Identified [GDoc](https://docs.google.com/document/d/1BIfPsHhvzEhLxU1wbMxosQn3tQHel_euIzekbFbLjG4)
 2. Cardano Constitutional Debt Workstreams Budget Strategy [GSheet](https://docs.google.com/spreadsheets/d/1ArJLvbOjkjFsj8P_KyTnMWNFzYaakJpnE0b9b4Qsbnw)
